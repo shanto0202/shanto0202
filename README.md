@@ -1,127 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:06B6D4&height=200&section=header&text=Hi%20There,%20I'm%20Shanto%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20@%20BUET%20|%20Building%20AI%20+%20Systems%20Projects&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2F4156,100:567C8D&height=190&section=header&text=Shahariar%20Rahman%20Shanto&fontSize=38&fontColor=F5EFEB&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20Undergraduate%20%E2%80%94%20Bangladesh%20University%20of%20Engineering%20and%20Technology&descAlignY=62&descSize=15&descColor=C8D9E6" width="100%"/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/shahariar-rahman-shanto/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Shahariar+Rahman+Shanto;CSE+Undergrad+at+BUET;Building+AI+%26+Systems+Projects;Hackathon+%26+Game+Jam+Enthusiast&font=Fira%20Code&center=true&width=460&height=45&color=0A66C2&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+%7C+Applied+AI+%7C+Systems+Design;Building+reliable+software+with+thoughtful+engineering;Currently+exploring+backend+systems+and+optimization&font=Georgia&center=true&width=620&height=40&color=567C8D&vCenter=true&size=17&pause=2500" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-<table align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F4156&height=2&width=100%" width="100%"/>
+
+## Profile
+
+Computer Science undergraduate at Bangladesh University of Engineering and Technology, working at the
+intersection of applied artificial intelligence, backend systems, and optimization. Experience spans
+building production-style APIs, designing constraint-based optimization systems, and developing
+interactive software under competitive time constraints.
+
+Recent focus areas include large language model integration for structured decision-making,
+linear programming for resource optimization, and clean, well-tested backend architecture.
+Actively engaged in hackathons and technical competitions as a means of continuous, applied learning.
+
+Open to internship and collaborative opportunities in software engineering and applied machine learning.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F4156&height=2&width=100%" width="100%"/>
+
+## Technical Skills
+
+<div align="center">
+
+<table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 About Me
-
-- 🎓 CS undergraduate at **Bangladesh University of Engineering and Technology (BUET)**, Class of 2025
-- 💡 Passionate about **AI systems, backend engineering, and applied optimization**
-- 🏆 **Rising Star** — IUT 12th ICT Fest 2026 Game Jam
-- 🔋 Built an AI-assisted **energy optimization system** (LLM + Linear Programming) at BUP CSE Fest 2026 Hackathon
-- 🚀 Currently building a **Junior Astronaut Mission Trainer** for NASA Space Apps Challenge 2026
-- 🌱 Exploring backend development, optimization systems, and AI-assisted tooling
-- 📫 Open to internship and collaboration opportunities in Software Engineering / AI-ML
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shanto0202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-
-</td>
+<td align="center" width="25%"><b>Languages</b><br/><sub>C &nbsp;&middot;&nbsp; C++ &nbsp;&middot;&nbsp; Java &nbsp;&middot;&nbsp; Python</sub></td>
+<td align="center" width="25%"><b>Core Foundations</b><br/><sub>Data Structures &amp; Algorithms &nbsp;&middot;&nbsp; OOP &nbsp;&middot;&nbsp; DBMS</sub></td>
+<td align="center" width="25%"><b>Applied AI &amp; Systems</b><br/><sub>LLM Integration &nbsp;&middot;&nbsp; Linear Programming &nbsp;&middot;&nbsp; REST APIs</sub></td>
+<td align="center" width="25%"><b>Tooling</b><br/><sub>Docker &nbsp;&middot;&nbsp; Git &nbsp;&middot;&nbsp; Automated Testing</sub></td>
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,cs,docker,git,github,vscode,linux,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,cs,docker,git,github,vscode,linux,postgres&theme=light" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F4156&height=2&width=100%" width="100%"/>
 
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanto0202&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanto0202&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
-
-</div>
-
-<br/>
-
-### 🚀 Featured Projects
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎓 [ACADEMICS](https://github.com/shanto0202/ACADEMICS)**
+**AI-Assisted Energy Optimization System**
+<br/><sub>BUP CSE Fest 2026 &nbsp;&middot;&nbsp; Hackathon</sub>
 
-A complete collection of my undergraduate CSE journey at BUET, covering all 4 years — course codes, assignments, lab work, projects, and practice problems in C, C++, Java, DSA, OOP, and DBMS.
+An API that translates natural-language operator instructions into structured directives
+through an LLM, validated by deterministic guardrails, then applies them as constraints to a
+linear programming optimizer. The system generates a 24-hour energy schedule that minimizes
+grid electricity cost while respecting battery, solar, grid, and reserve constraints, with the
+final schedule independently re-validated before being returned. Delivered with REST API
+endpoints, Docker deployment, automated tests, and documentation.
 
-`C` `C++` `Java` `DSA` `OOP` `DBMS`
+<sub>Result: 10 of 10 recorded public verification cases passed; 30 of 30 real-LLM verification cases passed.</sub>
+
+`LLM Integration` &nbsp;`Linear Programming` &nbsp;`REST API` &nbsp;`Docker`
 
 </td>
 <td width="50%" valign="top">
 
-**📄 [pdfshelf](https://github.com/shanto0202/pdfshelf)**
+**Junior Astronaut Mission Trainer**
+<br/><sub>NASA Space Apps Challenge 2026 &nbsp;&middot;&nbsp; In Progress</sub>
 
-A mobile-friendly PDF access business MVP — admin-managed customer accounts, single active session per login, in-browser watermarked PDF reader, and PWA support. Built entirely with Node.js.
+An interactive educational application in which students manage a lunar or Martian outpost,
+balancing competing demands such as life support, radiation shielding, power, and food
+production. Designed to make the engineering trade-offs behind real space missions both
+accurate and approachable for younger learners.
 
-`Node.js` `PWA` `Auth` `MVP`
+`Simulation Design` &nbsp;`Educational Software` &nbsp;`Systems Thinking`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**⚡ AI-Assisted Energy Optimization System**
-*BUP CSE Fest 2026 Hackathon*
+**[ACADEMICS](https://github.com/shanto0202/ACADEMICS)**
+<br/><sub>Personal Repository</sub>
 
-An API that converts natural-language operator instructions into structured directives via an LLM, validated by deterministic guardrails, then optimizes a 24-hour energy schedule using Linear Programming — minimizing grid cost under battery, solar, and reserve constraints. Passed 10/10 public + 30/30 real-LLM verification cases.
+A structured archive of coursework across four years of undergraduate study at BUET, including
+implementations, assignments, and lab work spanning C, C++, Java, data structures and
+algorithms, object-oriented programming, and database management systems.
 
-`LLM` `Linear Programming` `REST API` `Docker`
+`C` &nbsp;`C++` &nbsp;`Java` &nbsp;`DSA` &nbsp;`OOP` &nbsp;`DBMS`
 
 </td>
 <td width="50%" valign="top">
 
-**🎮 Kickoff — 2D Game**
-*IUT 12th ICT Fest 2026 Game Jam — 🏆 Rising Star*
+**[pdfshelf](https://github.com/shanto0202/pdfshelf)**
+<br/><sub>Personal Project</sub>
 
-Designed and built a 2D game around the theme "Kickoff" within a 48-hour game jam window, recognized with a Rising Star award.
+A mobile-friendly PDF distribution system built around administrator-managed customer accounts,
+single-session login enforcement, and an in-browser reader with account-specific watermarking.
+Implemented as a Progressive Web App using only Node.js built-in modules.
 
-`Game Dev` `2D` `Game Jam`
+`Node.js` &nbsp;`PWA` &nbsp;`Access Control`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Kickoff — 2D Game**
+<br/><sub>IUT 12th ICT Fest 2026 Game Jam &nbsp;&middot;&nbsp; Rising Star Award</sub>
+
+A 2D game designed and developed within a 48-hour window around the theme "Kickoff,"
+recognized with a Rising Star award for the submission.
+
+`Game Development` &nbsp;`Rapid Prototyping`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F4156&height=2&width=100%" width="100%"/>
+
+## GitHub Activity
 
 <div align="center">
 
-### 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/shahariar-rahman-shanto/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/shanto0202" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shanto0202&style=for-the-badge&color=0A66C2" alt="Profile views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shanto0202&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F4156&text_color=567C8D&icon_color=567C8D&border_radius=8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanto0202&hide_border=true&background=00000000&stroke=2F4156&ring=567C8D&fire=567C8D&currStreakLabel=2F4156&sideLabels=2F4156&currStreakNum=2F4156&sideNums=2F4156&dates=567C8D&border_radius=8" width="48%"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F4156&height=2&width=100%" width="100%"/>
+
+## Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shahariar-rahman-shanto/">
+  <img src="https://img.shields.io/badge/LinkedIn-2F4156?style=flat-square&logo=linkedin&logoColor=F5EFEB" />
+</a>
+<a href="https://github.com/shanto0202">
+  <img src="https://img.shields.io/badge/GitHub-567C8D?style=flat-square&logo=github&logoColor=F5EFEB" />
+</a>
+
+<br/><br/>
+
+<sub>Profile visits: <img src="https://komarev.com/ghpvc/?username=shanto0202&style=flat-square&color=567C8D&label=" height="16"/></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:567C8D,100:2F4156&height=80&section=footer" width="100%"/>
