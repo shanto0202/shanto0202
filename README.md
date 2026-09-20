@@ -104,7 +104,7 @@ I am currently focused on strengthening my computer science foundations while de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shanto0202&show_icons=true&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=38BDF8&border_radius=10" width="48%"/>
+
 
 <img src="https://streak-stats.demolab.com/?user=shanto0202&hide_border=true&background=0B1120&stroke=1E3A8A&ring=38BDF8&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=CBD5E1&dates=64748B&border_radius=10" width="48%"/>
 
