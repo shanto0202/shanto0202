@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/shanto0202">
-<img src="https://img.shields.io/badge/GitHub-shanto0202-111827?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shahariar-rahman-shanto/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 
 <br/><br/>
@@ -22,9 +22,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
-## About
+About
 
-I am a Computer Science undergraduate at the **Bangladesh University of Engineering and Technology (BUET)** with interests in software engineering, applied artificial intelligence, backend systems, algorithms, and optimization.
+I am a Computer Science undergraduate at the Bangladesh University of Engineering and Technology (BUET) with interests in software engineering, applied artificial intelligence, backend systems, algorithms, and optimization.
 
 I enjoy building practical software that combines strong engineering fundamentals with modern technologies. My work includes backend APIs, optimization systems, interactive applications, academic projects, and competition-based development.
 
@@ -32,23 +32,23 @@ I am currently focused on strengthening my computer science foundations while de
 
 <br/>
 
-## Technical Skills
+Technical Skills
 
 <div align="center">
 
-### Programming Languages
+Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark"/>
 
 <br/><br/>
 
-### Development & Infrastructure
+Development & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,nodejs,postgresql&theme=dark"/>
 
 <br/><br/>
 
-### Areas of Interest
+Areas of Interest
 
 <img src="https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend%20Development-111827?style=for-the-badge"/>
@@ -63,40 +63,40 @@ I am currently focused on strengthening my computer science foundations while de
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
-## Selected Work
+Selected Work
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### AI-Assisted Energy Optimization System
+AI-Assisted Energy Optimization System
 
-**BUP CSE Fest 2026 · Hackathon**
+BUP CSE Fest 2026 · Hackathon
 
 An energy optimization API that combines natural-language instructions, deterministic validation, and linear programming to generate optimized energy schedules.
 
 The system uses an LLM to translate operator instructions into structured directives, validates those directives through deterministic guardrails, applies them as constraints to an optimization model, and independently validates the generated schedule before returning the result.
 
-**Technology**
+Technology
 
-`LLM Integration` `Linear Programming` `REST API` `Docker` `Automated Testing`
+LLM Integration Linear Programming REST API Docker Automated Testing
 
 </td>
 
 <td width="50%" valign="top">
 
-### Junior Astronaut Mission Trainer
+Junior Astronaut Mission Trainer
 
-**NASA Space Apps Challenge 2026 · In Progress**
+NASA Space Apps Challenge 2026 · In Progress
 
 An interactive educational application designed around the management of a lunar or Martian outpost.
 
 The project focuses on making engineering trade-offs understandable through an interactive simulation involving resources such as power, life support, food production, and radiation protection.
 
-**Focus**
+Focus
 
-`Simulation` `Systems Design` `Education` `Space Technology`
+Simulation Systems Design Education Space Technology
 
 </td>
 
@@ -106,9 +106,9 @@ The project focuses on making engineering trade-offs understandable through an i
 
 <td width="50%" valign="top">
 
-### ACADEMICS
+ACADEMICS
 
-**BUET Undergraduate Repository**
+BUET Undergraduate Repository
 
 A structured archive of coursework, implementations, assignments, and laboratory work from my undergraduate studies at BUET.
 
@@ -122,9 +122,9 @@ The repository documents work across programming, data structures, algorithms, o
 
 <td width="50%" valign="top">
 
-### pdfshelf
+pdfshelf
 
-**Personal Project**
+Personal Project
 
 A mobile-friendly PDF distribution system built using Node.js built-in modules.
 
@@ -143,9 +143,9 @@ The system includes administrator-managed accounts, single-session authenticatio
 
 <div align="center">
 
-### Kickoff — 2D Game
+Kickoff — 2D Game
 
-**IUT 12th ICT Fest 2026 · Game Jam**
+IUT 12th ICT Fest 2026 · Game Jam
 
 A 2D football game developed within a 48-hour game jam around the theme "Kickoff."
 
@@ -159,7 +159,7 @@ A 2D football game developed within a 48-hour game jam around the theme "Kickoff
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
-## Academic Foundation
+Academic Foundation
 
 <div align="center">
 
@@ -181,7 +181,7 @@ A 2D football game developed within a 48-hour game jam around the theme "Kickoff
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
-## GitHub Statistics
+GitHub Statistics
 
 <div align="center">
 
@@ -195,17 +195,17 @@ A 2D football game developed within a 48-hour game jam around the theme "Kickoff
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
-## Competitive Development
+Competitive Development
 
 My development experience also includes time-constrained technical projects where implementation, problem solving, and collaboration are required under fixed deadlines.
 
-**BUP CSE Fest 2026**  
+BUP CSE Fest 2026
 AI-assisted energy optimization system developed for the hackathon.
 
-**NASA Space Apps Challenge 2026**  
+NASA Space Apps Challenge 2026
 Interactive space-mission education project currently under development.
 
-**IUT 12th ICT Fest 2026**  
+IUT 12th ICT Fest 2026
 2D football game developed within a 48-hour game jam and recognized with a Rising Star award.
 
 <br/>
@@ -219,3 +219,4 @@ Interactive space-mission education project currently under development.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:111827,100:080B12&height=110&section=footer" width="100%"/>
+
