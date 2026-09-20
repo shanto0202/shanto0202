@@ -4,13 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/shanto0202">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shahariar-rahman-shanto/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
-</a>
+<a href="https://github.com/shanto0202"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC"/></a><a href="https://www.linkedin.com/in/shahariar-rahman-shanto/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/></a>
 
 <br/><br/>
 
@@ -19,6 +13,8 @@
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
 ## About
 
@@ -59,6 +55,8 @@ I am currently focused on strengthening my computer science foundations while de
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
+
 ## Selected Work
 
 * **Junior Astronaut Mission Trainer** — NASA Space Apps Challenge 2026
@@ -77,6 +75,8 @@ I am currently focused on strengthening my computer science foundations while de
   2D football game developed within a 48-hour game jam and recognized with a **Rising Star** award.
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
 ## Academic Foundation
 
@@ -98,17 +98,19 @@ I am currently focused on strengthening my computer science foundations while de
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
+
 ## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shanto0202&show_icons=true&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=38BDF8&border_radius=10" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanto0202&hide_border=true&background=0B1120&stroke=1E3A8A&ring=38BDF8&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=CBD5E1&dates=64748B&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shanto0202&show_icons=true&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=38BDF8&border_radius=10" width="70%"/>
 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
 ## Competitive Development
 
