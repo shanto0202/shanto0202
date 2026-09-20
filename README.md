@@ -1,62 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F3B,50:6C63FF,100:00D9FF&height=210&section=header&text=Shahariar%20Rahman%20Shanto&fontSize=40&fontColor=F4F4FB&animation=fadeIn&fontAlignY=34&desc=Computer%20Science%20Undergraduate%20%E2%80%94%20BUET&descAlignY=58&descSize=16&descColor=DAD8FF" width="100%"/>
-
-<a href="https://www.linkedin.com/in/shahariar-rahman-shanto/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+%7C+Applied+AI+%7C+Systems+Design;Turning+ideas+into+working,+well-tested+systems;LLM-driven+optimization+%7C+Linear+Programming+%7C+APIs;Currently+building+for+NASA+Space+Apps+Challenge+2026&font=Georgia&center=true&width=680&height=40&color=6C63FF&vCenter=true&size=18&pause=1200&duration=2800" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:111827,100:2563EB&height=220&section=header&text=Shahariar%20Rahman%20Shanto&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20BUET&descAlignY=58&descSize=17&descColor=94A3B8" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-1B1F3B?style=for-the-badge&logo=googlemaps&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/University-BUET-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=F4F4FB" />
-<img src="https://img.shields.io/badge/Status-Open_to_Work-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=1B1F3B" />
+<a href="https://www.linkedin.com/in/shahariar-rahman-shanto/">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
+&nbsp;
+<a href="https://github.com/shanto0202">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+%7C+Applied+AI+%7C+Backend+Systems;Algorithms+%7C+Optimization+%7C+Systems+Design;Building+practical+software+through+continuous+learning&font=JetBrains+Mono&center=true&width=760&height=45&color=60A5FA&vCenter=true&size=17&pause=1300&duration=2800" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=4&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
 ## About
 
-Computer Science undergraduate at Bangladesh University of Engineering and Technology, working at the
-intersection of applied artificial intelligence, backend systems, and optimization. Experience spans
-building production-style APIs, designing constraint-based optimization systems, and developing
-interactive software under competitive time constraints.
+I am a Computer Science undergraduate at the **Bangladesh University of Engineering and Technology (BUET)** with an interest in software engineering, applied artificial intelligence, backend systems, algorithms, and optimization.
 
-Recent focus areas include large language model integration for structured decision-making,
-linear programming for resource optimization, and clean, well-tested backend architecture.
-Actively engaged in hackathons and technical competitions as a means of continuous, applied learning.
+I enjoy building software that moves beyond isolated demonstrations into complete, usable systems. My work ranges from backend APIs and optimization engines to interactive applications developed through competitive programming events, hackathons, and game jams.
 
-Open to internship and collaborative opportunities in software engineering and applied machine learning.
+Currently, I am strengthening my foundations in computer science while exploring how modern AI techniques can be integrated into reliable software systems.
 
 <br/>
+
+## Technical Focus
 
 <div align="center">
 
-## Tech Stack
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark"/>
 
-<img src="https://img.shields.io/badge/C-1B1F3B?style=for-the-badge&logo=c&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/LLM_Integration-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linear_Programming-00D9FF?style=for-the-badge&logo=wolfram&logoColor=1B1F3B"/>
-<img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postgresql,nodejs&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Backend%20Development-111827?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Applied%20AI-111827?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Algorithms-111827?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Optimization-111827?style=for-the-badge&logoColor=60A5FA"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=4&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
 ## Selected Work
 
@@ -65,110 +63,178 @@ Open to internship and collaborative opportunities in software engineering and a
 <td width="50%" valign="top">
 
 ### AI-Assisted Energy Optimization System
-<sub><b>BUP CSE Fest 2026 &nbsp;&middot;&nbsp; Hackathon</b></sub>
 
-An API that translates natural-language operator instructions into structured directives
-through an LLM, validated by deterministic guardrails, then applies them as constraints to a
-linear programming optimizer. Generates a 24-hour energy schedule that minimizes grid
-electricity cost while respecting battery, solar, grid, and reserve constraints, with the final
-schedule independently re-validated before being returned. Delivered with REST API endpoints,
-Docker deployment, automated tests, and documentation.
+**BUP CSE Fest 2026 · Hackathon**
 
-<img src="https://img.shields.io/badge/Public_Cases-10%2F10_Passed-00D9FF?style=flat-square&logoColor=1B1F3B"/>
-<img src="https://img.shields.io/badge/LLM_Cases-30%2F30_Passed-6C63FF?style=flat-square"/>
+An API that combines natural-language instructions, deterministic validation, and linear programming to generate optimized energy schedules.
+
+The system translates operator instructions through an LLM, validates the resulting directives, applies them as optimization constraints, and independently verifies the generated schedule.
+
+**Core Components**
+
+`LLM Integration` `Linear Programming` `REST API` `Validation` `Docker` `Automated Testing`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Junior Astronaut Mission Trainer
-<sub><b>NASA Space Apps Challenge 2026 &nbsp;&middot;&nbsp; In Progress</b></sub>
 
-An interactive educational application in which students manage a lunar or Martian outpost,
-balancing competing demands such as life support, radiation shielding, power, and food
-production. Designed to make the engineering trade-offs behind real space missions both
-accurate and approachable for younger learners.
+**NASA Space Apps Challenge 2026 · In Progress**
 
-<img src="https://img.shields.io/badge/Challenge-NASA_Space_Apps-6C63FF?style=flat-square&logo=nasa&logoColor=white"/>
+An interactive educational application centered around the management of a lunar or Martian outpost.
+
+The project focuses on making engineering trade-offs understandable through simulation, requiring users to balance resources such as power, life support, food production, and radiation protection.
+
+**Focus Areas**
+
+`Simulation` `Systems Thinking` `Education` `Space Technology`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### [ACADEMICS](https://github.com/shanto0202/ACADEMICS)
-<sub><b>Personal Repository</b></sub>
+### ACADEMICS
 
-A structured archive of coursework across four years of undergraduate study at BUET, including
-implementations, assignments, and lab work spanning C, C++, Java, data structures and
-algorithms, object-oriented programming, and database management systems.
+**BUET Undergraduate Repository**
 
-<img src="https://img.shields.io/github/languages/top/shanto0202/ACADEMICS?style=flat-square&color=6C63FF&label=primary"/>
+A structured archive of coursework, implementations, assignments, and laboratory work from my undergraduate studies at BUET.
+
+The repository is intended to document the development of my technical foundation across programming, data structures, algorithms, object-oriented programming, and database systems.
+
+<a href="https://github.com/shanto0202/ACADEMICS">
+<img src="https://img.shields.io/badge/Repository-2563EB?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### [pdfshelf](https://github.com/shanto0202/pdfshelf)
-<sub><b>Personal Project</b></sub>
+### pdfshelf
 
-A mobile-friendly PDF distribution system built around administrator-managed customer accounts,
-single-session login enforcement, and an in-browser reader with account-specific watermarking.
-Implemented as a Progressive Web App using only Node.js built-in modules.
+**Personal Project**
 
-<img src="https://img.shields.io/badge/Node.js-Built--in_Modules_Only-00D9FF?style=flat-square&logo=nodedotjs&logoColor=1B1F3B"/>
+A mobile-friendly PDF distribution system built using Node.js built-in modules.
+
+The system includes administrator-managed accounts, single-session authentication, account-specific watermarking, and an in-browser document reader.
+
+<a href="https://github.com/shanto0202/pdfshelf">
+<img src="https://img.shields.io/badge/Repository-2563EB?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
 ### Kickoff — 2D Game
-<sub><b>IUT 12th ICT Fest 2026 Game Jam</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/Award-Rising_Star-FFD700?style=for-the-badge&logo=star&logoColor=1B1F3B"/>
 
-A 2D game designed and developed within a 48-hour window around the theme "Kickoff."
+**IUT 12th ICT Fest 2026 · Game Jam**
+
+A 2D football game developed within a 48-hour game jam around the theme "Kickoff."
+
+<img src="https://img.shields.io/badge/Award-Rising%20Star-111827?style=for-the-badge&logoColor=60A5FA"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=4&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
 
-## GitHub Overview
+## Academic Foundation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shanto0202&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=1B1F3B&icon_color=00D9FF&border_radius=10" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanto0202&hide_border=true&background=00000000&stroke=6C63FF&ring=00D9FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=1B1F3B&currStreakNum=1B1F3B&sideNums=1B1F3B&dates=6C63FF&border_radius=10" width="48%"/>
+<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=60A5FA"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanto0202&bg_color=00000000&color=6C63FF&line=00D9FF&point=1B1F3B&area=true&area_color=C9C6FF&hide_border=true" width="97%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shanto0202&theme=radical&no-frame=true&column=4&margin-w=12&margin-h=12&row=2" width="90%"/>
+<img src="https://img.shields.io/badge/Data%20Structures-111827?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Algorithms-111827?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Database%20Systems-111827?style=for-the-badge&logoColor=60A5FA"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=4&width=100%" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shanto0202&show_icons=true&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=38BDF8&border_radius=10" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanto0202&hide_border=true&background=0B1120&stroke=1E3A8A&ring=38BDF8&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=CBD5E1&dates=64748B&border_radius=10" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanto0202&bg_color=0B1120&color=94A3B8&line=2563EB&point=38BDF8&area=true&area_color=1E3A8A&hide_border=true" width="96%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=100%" width="100%"/>
+
+## Current Direction
+
+```text
+Software Engineering
+        |
+        +-- Backend Systems
+        |      +-- APIs
+        |      +-- Databases
+        |      +-- System Design
+        |
+        +-- Applied AI
+        |      +-- LLM Integration
+        |      +-- Intelligent Applications
+        |
+        +-- Computer Science
+        |      +-- Algorithms
+        |      +-- Data Structures
+        |      +-- Optimization
+        |
+        +-- Applied Projects
+               +-- Hackathons
+               +-- Game Development
+               +-- Technical Challenges
+```
+
+<br/>
 
 ## Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shahariar-rahman-shanto/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
+
 <a href="https://github.com/shanto0202">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shanto0202&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=shanto0202&style=for-the-badge&color=1E3A8A&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<sub>Building continuously. Learning deliberately.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:1B1F3B&height=110&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:111827,100:080B12&height=110&section=footer" width="100%"/>
