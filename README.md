@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2F4156,100:567C8D&height=190&section=header&text=Shahariar%20Rahman%20Shanto&fontSize=38&fontColor=F5EFEB&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20Undergraduate%20%E2%80%94%20Bangladesh%20University%20of%20Engineering%20and%20Technology&descAlignY=62&descSize=15&descColor=C8D9E6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4156,100:567C8D&height=200&section=header&text=Shahariar%20Rahman%20Shanto&fontSize=38&fontColor=F5EFEB&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Undergraduate%20%E2%80%94%20Bangladesh%20University%20of%20Engineering%20and%20Technology&descAlignY=58&descSize=15&descColor=C8D9E6" width="100%"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/shahariar-rahman-shanto/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+%7C+Applied+AI+%7C+Systems+Design;Building+reliable+software+with+thoughtful+engineering;Currently+exploring+backend+systems+and+optimization&font=Georgia&center=true&width=620&height=40&color=567C8D&vCenter=true&size=17&pause=2500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+%7C+Applied+AI+%7C+Systems+Design;Turning+ideas+into+working,+well-tested+systems;LLM-driven+optimization+%7C+Linear+Programming+%7C+APIs;Currently+building+for+NASA+Space+Apps+Challenge+2026&font=Georgia&center=true&width=650&height=40&color=567C8D&vCenter=true&size=17&pause=1200&duration=3000" alt="Typing SVG" />
 </a>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2F4156&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F4156&height=6&width=100%" width="100%"/>
 
 ## Profile
 
@@ -27,7 +25,7 @@ Actively engaged in hackathons and technical competitions as a means of continuo
 
 Open to internship and collaborative opportunities in software engineering and applied machine learning.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2F4156&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F4156&height=6&width=100%" width="100%"/>
 
 ## Technical Skills
 
@@ -48,7 +46,7 @@ Open to internship and collaborative opportunities in software engineering and a
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2F4156&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F4156&height=6&width=100%" width="100%"/>
 
 ## Selected Work
 
@@ -129,7 +127,7 @@ recognized with a Rising Star award for the submission.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2F4156&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F4156&height=6&width=100%" width="100%"/>
 
 ## GitHub Activity
 
@@ -138,9 +136,29 @@ recognized with a Rising Star award for the submission.
 <img src="https://github-readme-stats.vercel.app/api?username=shanto0202&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F4156&text_color=567C8D&icon_color=567C8D&border_radius=8" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanto0202&hide_border=true&background=00000000&stroke=2F4156&ring=567C8D&fire=567C8D&currStreakLabel=2F4156&sideLabels=2F4156&currStreakNum=2F4156&sideNums=2F4156&dates=567C8D&border_radius=8" width="48%"/>
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanto0202&bg_color=00000000&color=2F4156&line=567C8D&point=2F4156&area=true&area_color=C8D9E6&hide_border=true" width="97%"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2F4156&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F4156&height=6&width=100%" width="100%"/>
+
+## Live Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanto0202/shanto0202/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanto0202/shanto0202/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shanto0202/shanto0202/output/github-contribution-grid-snake.svg" width="97%"/>
+</picture>
+
+<sub>Animated snake eating through the contribution graph — updates automatically. Setup instructions below.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F4156&height=6&width=100%" width="100%"/>
 
 ## Contact
 
@@ -159,4 +177,4 @@ recognized with a Rising Star award for the submission.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:567C8D,100:2F4156&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:567C8D,100:2F4156&height=90&section=footer" width="100%"/>
