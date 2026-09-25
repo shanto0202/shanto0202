@@ -1,0 +1,66 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated firefly code footer</title>
+  <desc id="desc">A calm night-sky footer where softly glowing fireflies drift around a developer motto.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B14"/><stop offset=".5" stop-color="#0B1622"/><stop offset="1" stop-color="#080D16"/>
+    </linearGradient>
+    <linearGradient id="border" x1="60" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/><stop offset=".3" stop-color="#38BDF8"/><stop offset=".58" stop-color="#2DD4BF"/><stop offset=".82" stop-color="#F59E0B"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="aurora" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 120) rotate(90) scale(145 460)">
+      <stop stop-color="#0EA5E9" stop-opacity=".08"/><stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="goldGlow" x="-400%" y="-400%" width="900%" height="900%">
+      <feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="230" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="230" fill="url(#background)"/>
+    <rect width="1200" height="230" fill="url(#aurora)"/>
+
+    <!-- Warm fireflies drift on independent paths and rhythms. -->
+    <g fill="#FDE68A" filter="url(#goldGlow)">
+      <circle cx="95" cy="62" r="2.4"><animate attributeName="cx" values="95;154;123;191;95" dur="11s" begin="-3s" repeatCount="indefinite"/><animate attributeName="cy" values="62;38;83;55;62" dur="8s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;1;.35;.85;.15" dur="4.8s" repeatCount="indefinite"/></circle>
+      <circle cx="215" cy="178" r="1.9"><animate attributeName="cx" values="215;279;241;306;215" dur="14s" begin="-7s" repeatCount="indefinite"/><animate attributeName="cy" values="178;142;192;154;178" dur="10s" begin="-4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.8;.2;1;.1" dur="6s" repeatCount="indefinite"/></circle>
+      <circle cx="348" cy="42" r="2.2"><animate attributeName="cx" values="348;405;371;438;348" dur="12s" begin="-8s" repeatCount="indefinite"/><animate attributeName="cy" values="42;69;31;61;42" dur="9s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;1;.25;.75;.2" dur="5.5s" repeatCount="indefinite"/></circle>
+      <circle cx="856" cy="48" r="2.3"><animate attributeName="cx" values="856;922;881;954;856" dur="13s" begin="-5s" repeatCount="indefinite"/><animate attributeName="cy" values="48;77;35;62;48" dur="8.5s" begin="-6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;.95;.3;1;.15" dur="5.2s" repeatCount="indefinite"/></circle>
+      <circle cx="1032" cy="168" r="2"><animate attributeName="cx" values="1032;1094;1057;1133;1032" dur="15s" begin="-9s" repeatCount="indefinite"/><animate attributeName="cy" values="168;133;188;148;168" dur="11s" begin="-3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".12;.9;.3;1;.12" dur="6.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1150" cy="72" r="1.8"><animate attributeName="cx" values="1150;1098;1131;1065;1150" dur="13.5s" begin="-4s" repeatCount="indefinite"/><animate attributeName="cy" values="72;43;94;58;72" dur="9.5s" begin="-7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.75;.25;.9;.1" dur="5.8s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- Cooler companion lights keep the palette connected to the banner. -->
+    <g fill="#5EEAD4" filter="url(#softGlow)">
+      <circle cx="150" cy="118" r="1.7"><animate attributeName="cx" values="150;103;176;128;150" dur="12.5s" begin="-5s" repeatCount="indefinite"/><animate attributeName="cy" values="118;152;132;178;118" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.8;.2;.7;.1" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="456" cy="186" r="1.8"><animate attributeName="cx" values="456;398;487;423;456" dur="14.5s" begin="-2s" repeatCount="indefinite"/><animate attributeName="cy" values="186;157;174;138;186" dur="9.5s" begin="-6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;.9;.3;.75;.15" dur="6.2s" repeatCount="indefinite"/></circle>
+      <circle cx="742" cy="174" r="1.9"><animate attributeName="cx" values="742;805;766;831;742" dur="13s" begin="-7s" repeatCount="indefinite"/><animate attributeName="cy" values="174;151;192;159;174" dur="8.8s" begin="-4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.85;.25;.7;.1" dur="5.7s" repeatCount="indefinite"/></circle>
+      <circle cx="975" cy="96" r="1.6"><animate attributeName="cx" values="975;1021;991;1050;975" dur="11.5s" begin="-1s" repeatCount="indefinite"/><animate attributeName="cy" values="96;68;119;83;96" dur="9s" begin="-5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;.75;.2;.85;.15" dur="4.9s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g fill="#7DD3FC" opacity=".5">
+      <circle cx="62" cy="194" r="1"><animate attributeName="opacity" values=".1;.7;.1" dur="3.8s" repeatCount="indefinite"/></circle>
+      <circle cx="294" cy="103" r="1.1"><animate attributeName="opacity" values=".15;.8;.15" dur="4.6s" begin="-2s" repeatCount="indefinite"/></circle>
+      <circle cx="522" cy="54" r=".9"><animate attributeName="opacity" values=".1;.65;.1" dur="3.4s" begin="-1s" repeatCount="indefinite"/></circle>
+      <circle cx="676" cy="194" r="1"><animate attributeName="opacity" values=".1;.8;.1" dur="5s" begin="-3s" repeatCount="indefinite"/></circle>
+      <circle cx="914" cy="201" r="1.1"><animate attributeName="opacity" values=".15;.7;.15" dur="4.2s" begin="-1.5s" repeatCount="indefinite"/></circle>
+      <circle cx="1102" cy="32" r=".9"><animate attributeName="opacity" values=".1;.75;.1" dur="3.6s" begin="-2.4s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g font-family="Consolas, 'Courier New', monospace" text-anchor="middle">
+      <rect x="318" y="72" width="564" height="58" rx="13" fill="#080D16" fill-opacity=".82" stroke="#263445"/>
+      <text x="600" y="108" font-size="18" font-weight="600">
+        <tspan fill="#38BDF8">while</tspan><tspan fill="#CBD5E1"> (curious) </tspan><tspan fill="#F59E0B">{</tspan><tspan fill="#5EEAD4"> learn</tspan><tspan fill="#94A3B8">(); </tspan><tspan fill="#7DD3FC">build</tspan><tspan fill="#94A3B8">(); </tspan><tspan fill="#FDA4AF">improve</tspan><tspan fill="#94A3B8">(); </tspan><tspan fill="#F59E0B">}</tspan>
+      </text>
+      <rect x="849" y="91" width="7" height="19" rx="1" fill="#5EEAD4"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.1s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <text x="600" y="163" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" letter-spacing="2">BUILDING CONTINUOUSLY / LEARNING DELIBERATELY</text>
+    <rect x="70" y="205" width="1060" height="2" rx="1" fill="url(#border)" opacity=".7"/>
+    <rect x="1" y="1" width="1198" height="228" rx="21" stroke="#263445"/>
+  </g>
+</svg>

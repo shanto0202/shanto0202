@@ -107,15 +107,7 @@ A team-built 2D football game developed under a fixed competition deadline aroun
 
 <div align="center">
 
-<sub>CONTRIBUTION CALENDAR / LAST 12 MONTHS</sub>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:38bdf8/shanto0202" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.xqsit94.in/light:0284c7/shanto0202" />
-  <img width="100%" src="https://ghchart.xqsit94.in/dark:38bdf8/shanto0202" alt="Shanto's GitHub contribution calendar for the last twelve months" />
-</picture>
+<a href="https://github.com/shanto0202?tab=overview"><img width="100%" src="./assets/contributions.svg" alt="Shanto's compact GitHub contribution calendar for the last twelve months" /></a>
 
 <br /><br />
 
@@ -149,10 +141,6 @@ I am open to conversations about software engineering, project ideas, competitio
 
 <br /><br />
 
-`while (curious) { learn(); build(); improve(); }`
-
-<br />
-
-<sub>Building continuously. Learning deliberately.</sub>
+<img src="./assets/firefly-footer.svg" width="100%" alt="Animated fireflies drifting around a colourful developer motto" />
 
 </div>

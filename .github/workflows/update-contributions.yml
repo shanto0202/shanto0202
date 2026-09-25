@@ -1,0 +1,44 @@
+name: Update contribution graph
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          package-manager-cache: false
+
+      - name: Generate contribution SVG
+        run: node scripts/generate-contributions.mjs
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+
+      - name: Commit updated graph
+        shell: bash
+        run: |
+          if git diff --quiet -- assets/contributions.svg; then
+            echo "Contribution graph is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions.svg
+          git commit -m "chore: update contribution graph"
+          git push
