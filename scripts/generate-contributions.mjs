@@ -74,12 +74,12 @@ for (let weekStart = calendarStart; weekStart <= calendarEnd; weekStart = addDay
   weeks.push(week);
 }
 
-const width = 1200;
-const height = 272;
-const gridX = 148;
-const gridY = 92;
-const cellSize = 13;
-const gap = 4;
+const width = 980;
+const height = 264;
+const gridX = 70;
+const gridY = 91;
+const cellSize = 12;
+const gap = 3;
 const step = cellSize + gap;
 const gridWidth = weeks.length * step - gap;
 const total = contributions.reduce((sum, day) => sum + day.count, 0);
@@ -109,8 +109,8 @@ for (let weekIndex = 0; weekIndex < weeks.length; weekIndex += 1) {
   const firstVisibleDate = parseDate(visibleDays[0].date);
   const monthKey = `${firstVisibleDate.getUTCFullYear()}-${firstVisibleDate.getUTCMonth()}`;
   const x = gridX + weekIndex * step;
-  if (monthKey !== previousMonth && x - previousMonthX >= 38) {
-    months.push(`<text x="${x}" y="77" fill="#94A3B8" font-size="11">${monthFormatter.format(firstVisibleDate)}</text>`);
+  if (monthKey !== previousMonth && x - previousMonthX >= 34) {
+    months.push(`<text x="${x}" y="77" fill="#94A3B8" font-size="12">${monthFormatter.format(firstVisibleDate)}</text>`);
     previousMonth = monthKey;
     previousMonthX = x;
   }
@@ -136,24 +136,24 @@ const svg = `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${he
   </defs>
   <rect width="${width}" height="${height}" rx="22" fill="url(#background)"/>
   <rect x="1" y="1" width="${width - 2}" height="${height - 2}" rx="21" stroke="#263445"/>
-  <rect x="42" y="31" width="5" height="24" rx="2.5" fill="url(#accent)"/>
-  <text x="62" y="48" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.8">CONTRIBUTION SIGNAL</text>
-  <text x="62" y="67" fill="#64748B" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" letter-spacing="1">LAST 12 MONTHS / PUBLIC ACTIVITY</text>
-  <text x="1155" y="48" text-anchor="end" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="700">${total}</text>
-  <text x="1155" y="66" text-anchor="end" fill="#64748B" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="9" letter-spacing="1.1">CONTRIBUTIONS</text>
+  <rect x="35" y="28" width="5" height="25" rx="2.5" fill="url(#accent)"/>
+  <text x="52" y="46" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2">CONTRIBUTION SIGNAL</text>
+  <text x="52" y="65" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11" letter-spacing=".7">LAST 12 MONTHS / PUBLIC ACTIVITY</text>
+  <text x="944" y="46" text-anchor="end" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="23" font-weight="700">${total}</text>
+  <text x="944" y="64" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" letter-spacing=".8">CONTRIBUTIONS</text>
   <g font-family="Segoe UI, Inter, Arial, sans-serif">${months.join('')}
-    <text x="112" y="118" text-anchor="end" fill="#64748B" font-size="10">Mon</text>
-    <text x="112" y="152" text-anchor="end" fill="#64748B" font-size="10">Wed</text>
-    <text x="112" y="186" text-anchor="end" fill="#64748B" font-size="10">Fri</text>
+    <text x="56" y="116" text-anchor="end" fill="#94A3B8" font-size="11">Mon</text>
+    <text x="56" y="146" text-anchor="end" fill="#94A3B8" font-size="11">Wed</text>
+    <text x="56" y="176" text-anchor="end" fill="#94A3B8" font-size="11">Fri</text>
     ${cells.join('')}
-    <text x="${gridX}" y="238" fill="#475569" font-size="9" letter-spacing=".8">UPDATED ${escapeXml(updated.toUpperCase())}</text>
-    <g transform="translate(${Math.min(gridX + gridWidth - 188, 962)} 226)">
-      <text x="0" y="11" fill="#64748B" font-size="9">LESS</text>
+    <text x="${gridX}" y="233" fill="#94A3B8" font-size="10" letter-spacing=".6">UPDATED ${escapeXml(updated.toUpperCase())}</text>
+    <g transform="translate(${Math.min(gridX + gridWidth - 188, 770)} 221)">
+      <text x="0" y="11" fill="#94A3B8" font-size="10">LESS</text>
       ${colors.map((color, index) => `<rect x="${38 + index * 20}" y="0" width="13" height="13" rx="3" fill="${color}" stroke="#263445" stroke-opacity=".55"/>`).join('')}
-      <text x="146" y="11" fill="#64748B" font-size="9">MORE</text>
+      <text x="146" y="11" fill="#94A3B8" font-size="10">MORE</text>
     </g>
   </g>
-  <rect x="42" y="255" width="1116" height="2" rx="1" fill="url(#accent)" opacity=".65"/>
+  <rect x="35" y="247" width="910" height="2" rx="1" fill="url(#accent)" opacity=".65"/>
 </svg>
 `;
 

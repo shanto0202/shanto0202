@@ -1,5 +1,3 @@
-<!-- Minimal profile README. Custom SVG animations are stored in ./assets. -->
-
 <div align="center">
 
 <img src="./assets/signal-banner.svg" width="100%" alt="Animated developer profile banner for Shahariar Rahman Shanto" />
@@ -20,15 +18,14 @@
 
 ## About
 
-I am a Computer Science undergraduate at the **Bangladesh University of Engineering and Technology (BUET)**. I enjoy working where careful problem-solving meets practical engineering—designing dependable APIs, modeling optimization problems, and turning technical ideas into useful software.
+I am a Computer Science undergraduate at the **Bangladesh University of Engineering and Technology (BUET)**. I enjoy turning difficult problems into useful software—from dependable APIs and optimization models to interactive applications.
 
-My experience includes backend systems, applied AI, academic implementations, optimization, interactive applications, and time-constrained competition projects. I care about clear abstractions, deliberate validation, meaningful tests, and software that remains understandable after it ships.
+My projects span backend systems, applied AI, academic implementations, and competition builds. I care about clear design, meaningful tests, and software that remains understandable after it ships.
 
 ### Current Focus
 
-- Strengthening core computer science and software engineering fundamentals
 - Building reliable backend systems and well-defined APIs
-- Exploring practical AI integrations with deterministic guardrails
+- Exploring practical AI with deterministic validation
 - Applying algorithms and optimization to real-world problems
 
 ## Technical Toolkit
@@ -118,14 +115,6 @@ A team-built 2D football game developed under a fixed competition deadline aroun
 <sub>Contribution data updates automatically from public GitHub activity.</sub>
 
 </div>
-
-## Working Principles
-
-- **Understand before implementing.** A clear problem statement prevents unnecessary complexity.
-- **Design useful boundaries.** Validation and predictable interfaces belong in the architecture.
-- **Prefer evidence over assumption.** Tests, measurements, and small experiments guide decisions.
-- **Write for the next developer.** Readability and documentation are part of the product.
-- **Keep learning.** Every project should expand the engineering toolbox.
 
 ## Connect
 
