@@ -94,7 +94,7 @@
         <circle cx="17" cy="15" r="4.5" fill="#38BDF8" filter="url(#glow)">
           <animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/>
         </circle>
-        <text x="31" y="20" fill="#BAE6FD" font-size="11" font-weight="700" letter-spacing="1.45">BUET / COMPUTER SCIENCE</text>
+        <text x="31" y="20" fill="#BAE6FD" font-size="11" font-weight="700" letter-spacing="1.45">BUILDING WITH CURIOSITY</text>
       </g>
 
       <text x="64" y="126" fill="#94A3B8" font-size="15" font-weight="600" letter-spacing="4">HELLO, I'M</text>
@@ -139,7 +139,8 @@
       <circle cx="677" cy="78" r="5" fill="#38BDF8"/>
       <circle cx="695" cy="78" r="5" fill="#2DD4BF"/>
       <circle cx="713" cy="78" r="5" fill="#F59E0B"/>
-      <text x="737" y="83" fill="#64748B" font-size="11">~/shanto/profile.ts</text>
+      <text x="737" y="83" fill="#94A3B8" font-size="11">~/portfolio.ts</text>
+      <text x="1015" y="83" text-anchor="end" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">CSE @ BUET</text>
       <text x="1109" y="83" text-anchor="end" fill="#34D399" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.2">LIVE</text>
       <circle cx="1121" cy="79" r="3.5" fill="#34D399" filter="url(#glow)">
         <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>

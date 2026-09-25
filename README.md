@@ -16,52 +16,44 @@
 
 </div>
 
-<img src="./assets/pulse-divider.svg" width="100%" alt="Animated blue, teal, amber, and coral signal divider" />
+<br />
 
 ## About
-
-```yaml
-name: Shahariar Rahman Shanto
-education: "Computer Science & Engineering @ BUET"
-location: Bangladesh
-focus: [Software Engineering, Applied AI, Backend Systems, Algorithms]
-approach: "Understand the problem. Build carefully. Improve continuously."
-```
 
 I am a Computer Science undergraduate at the **Bangladesh University of Engineering and Technology (BUET)**. I enjoy working where careful problem-solving meets practical engineering—designing dependable APIs, modeling optimization problems, and turning technical ideas into useful software.
 
 My experience includes backend systems, applied AI, academic implementations, optimization, interactive applications, and time-constrained competition projects. I care about clear abstractions, deliberate validation, meaningful tests, and software that remains understandable after it ships.
 
-### Current direction
+### Current Focus
 
 - Strengthening core computer science and software engineering fundamentals
 - Building reliable backend systems and well-defined APIs
 - Exploring practical AI integrations with deterministic guardrails
 - Applying algorithms and optimization to real-world problems
 
-## Toolkit
+## Technical Toolkit
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&amp;theme=dark" alt="C, C++, Java, Python, and JavaScript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&amp;theme=dark" height="52" alt="C, C++, Java, Python, and JavaScript" />
 
-### Development
+### Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,git,github,linux,vscode&amp;theme=dark" alt="Node.js, PostgreSQL, Docker, Git, GitHub, Linux, and VS Code" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,git,github,linux,vscode&amp;theme=dark" height="52" alt="Node.js, PostgreSQL, Docker, Git, GitHub, Linux, and VS Code" />
 
 <sub>Software Engineering · Backend Systems · Applied AI · Algorithms · Optimization · REST APIs</sub>
 
 </div>
 
-<img src="./assets/pulse-divider.svg" width="100%" alt="Animated signal divider" />
+<br />
 
 ## Featured Work
 
-### AI-Assisted Energy Optimization System
+<sub>01 / BUP CSE FEST 2026 / HACKATHON</sub>
 
-<sub>BUP CSE Fest 2026 · Hackathon</sub>
+### AI-Assisted Energy Optimization System
 
 An optimization API that turns natural-language operator instructions into structured directives, validates them through deterministic guardrails, applies them as constraints to a linear-programming model, and independently checks the generated energy schedule.
 
@@ -69,9 +61,9 @@ An optimization API that turns natural-language operator instructions into struc
 
 <br />
 
-### Junior Astronaut Mission Trainer
+<sub>02 / NASA SPACE APPS CHALLENGE 2026 / IN PROGRESS</sub>
 
-<sub>NASA Space Apps Challenge 2026 · In progress</sub>
+### Junior Astronaut Mission Trainer
 
 An educational simulation built around managing a lunar or Martian outpost. It makes engineering trade-offs understandable through decisions involving power, life support, food production, and radiation protection.
 
@@ -79,9 +71,9 @@ An educational simulation built around managing a lunar or Martian outpost. It m
 
 <br />
 
-### ACADEMICS
+<sub>03 / BUET / UNDERGRADUATE REPOSITORY</sub>
 
-<sub>BUET undergraduate repository</sub>
+### ACADEMICS
 
 A growing archive of coursework, assignments, laboratory work, and implementations from my undergraduate CSE journey—from programming fundamentals to core computer science subjects.
 
@@ -89,9 +81,9 @@ A growing archive of coursework, assignments, laboratory work, and implementatio
 
 <br />
 
-### pdfshelf
+<sub>04 / PERSONAL PROJECT / SECURE DOCUMENT DELIVERY</sub>
 
-<sub>Secure document delivery · Personal project</sub>
+### pdfshelf
 
 A mobile-friendly PDF distribution system with administrator-managed accounts, single-session authentication, account-specific watermarking, and an in-browser reader.
 
@@ -99,11 +91,11 @@ A mobile-friendly PDF distribution system with administrator-managed accounts, s
 
 <br />
 
+<sub>05 / IUT 12TH ICT FEST 2026 / 48-HOUR GAME JAM</sub>
+
 ### Kickoff — 2D Football Game
 
-<sub>IUT 12th ICT Fest 2026 · 48-hour game jam · Rising Star award</sub>
-
-A team-built 2D football game developed under a fixed competition deadline around the theme “Kickoff.”
+A team-built 2D football game developed under a fixed competition deadline around the theme “Kickoff” and recognized with a **Rising Star** award.
 
 [View team repository](https://github.com/Atul-169/GameJam-KickOff)
 
@@ -115,11 +107,23 @@ A team-built 2D football game developed under a fixed competition deadline aroun
 
 <div align="center">
 
+<sub>CONTRIBUTION CALENDAR / LAST 12 MONTHS</sub>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:38bdf8/shanto0202" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.xqsit94.in/light:0284c7/shanto0202" />
+  <img width="100%" src="https://ghchart.xqsit94.in/dark:38bdf8/shanto0202" alt="Shanto's GitHub contribution calendar for the last twelve months" />
+</picture>
+
+<br /><br />
+
 <a href="https://github.com/shanto0202?tab=overview"><img width="68%" src="https://streak-stats.demolab.com?user=shanto0202&amp;hide_border=true&amp;background=0B0F17&amp;stroke=273548&amp;ring=38BDF8&amp;fire=F59E0B&amp;currStreakLabel=2DD4BF&amp;sideLabels=94A3B8&amp;currStreakNum=F1F5F9&amp;sideNums=CBD5E1&amp;dates=64748B" alt="Shanto's GitHub contribution activity" /></a>
 
 <br />
 
-<sub>Updated automatically from public GitHub activity.</sub>
+<sub>Contribution data updates automatically from public GitHub activity.</sub>
 
 </div>
 
