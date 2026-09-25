@@ -2,7 +2,7 @@
 
 <img src="./assets/signal-banner.svg" width="100%" alt="Animated developer profile banner for Shahariar Rahman Shanto" />
 
-<br />
+<br /><br />
 
 <a href="https://github.com/shanto0202"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/shahariar-rahman-shanto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
