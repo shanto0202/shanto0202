@@ -102,8 +102,8 @@
       <text x="62" y="228" fill="#F8FAFC" font-size="40" font-weight="300" letter-spacing="10">SHANTO</text>
       <rect x="64" y="250" width="520" height="2" rx="1" fill="url(#spectrum)"/>
 
-      <text x="64" y="286" fill="#CBD5E1" font-size="17" font-weight="500">Software Engineering <tspan fill="#475569">/</tspan> Applied AI <tspan fill="#475569">/</tspan> Backend Systems</text>
-      <text x="64" y="313" fill="#64748B" font-size="13" letter-spacing=".7">ENGINEERING IDEAS INTO RELIABLE, USEFUL SOFTWARE</text>
+      <text x="64" y="283" fill="#67E8F9" font-size="16" font-weight="600">Computer Science at</text>
+      <text x="64" y="310" fill="#CBD5E1" font-size="14" font-weight="500">Bangladesh University of Engineering and Technology (BUET)</text>
 
       <g transform="translate(64 338)" font-size="10" font-weight="700" letter-spacing="1.1">
         <rect width="113" height="29" rx="7" fill="#0C2130" stroke="#17607E"/>
