@@ -12,14 +12,6 @@
 
 <br /><br />
 
-<a href="#about">About</a> &nbsp;·&nbsp;
-<a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
-<a href="#featured-work">Work</a> &nbsp;·&nbsp;
-<a href="#github-activity">Activity</a> &nbsp;·&nbsp;
-<a href="#connect">Connect</a>
-
-<br /><br />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=17&amp;duration=2800&amp;pause=1000&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=38&amp;lines=Software+Engineering+%7C+Applied+AI+%7C+Backend+Systems;Algorithms+%7C+Optimization+%7C+Systems+Design;Learning+deliberately.+Building+reliably." alt="Typing animation describing my engineering interests" />
 
 </div>
@@ -53,19 +45,11 @@ My experience includes backend systems, applied AI, academic implementations, op
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&amp;theme=dark" alt="C, C++, Java, Python, and JavaScript" />
 
 ### Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,git,github,linux,vscode&amp;theme=dark" alt="Node.js, PostgreSQL, Docker, Git, GitHub, Linux, and VS Code" />
 
 <sub>Software Engineering · Backend Systems · Applied AI · Algorithms · Optimization · REST APIs</sub>
 
