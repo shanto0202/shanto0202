@@ -6,9 +6,9 @@
 
 <br />
 
-<a href="https://github.com/shanto0202"><img src="https://img.shields.io/badge/GitHub-Profile-1F2937?style=flat-square&amp;logo=github&amp;logoColor=E5E7EB&amp;labelColor=111827" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/shahariar-rahman-shanto/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=flat-square&amp;logo=linkedin&amp;logoColor=E5E7EB&amp;labelColor=111827" alt="LinkedIn profile" /></a>
-<img src="https://komarev.com/ghpvc/?username=shanto0202&amp;style=flat-square&amp;color=1F2937&amp;label=Profile+views" alt="Profile views" />
+<a href="https://github.com/shanto0202"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/shahariar-rahman-shanto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/shanto0202/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&amp;logo=leetcode&amp;logoColor=111827" alt="LeetCode" /></a>
 
 <br /><br />
 
@@ -20,9 +20,11 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=17&amp;duration=2800&amp;pause=1000&amp;color=7CA6C2&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=38&amp;lines=Software+Engineering+%7C+Applied+AI+%7C+Backend+Systems;Algorithms+%7C+Optimization+%7C+Systems+Design;Learning+deliberately.+Building+reliably." alt="Typing animation describing my engineering interests" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=17&amp;duration=2800&amp;pause=1000&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=38&amp;lines=Software+Engineering+%7C+Applied+AI+%7C+Backend+Systems;Algorithms+%7C+Optimization+%7C+Systems+Design;Learning+deliberately.+Building+reliably." alt="Typing animation describing my engineering interests" />
 
 </div>
+
+<img src="./assets/pulse-divider.svg" width="100%" alt="Animated blue, teal, amber, and coral signal divider" />
 
 ## About
 
@@ -51,23 +53,25 @@ My experience includes backend systems, applied AI, academic implementations, op
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-1F2937?style=flat-square&logo=c&logoColor=E5E7EB)
-![C++](https://img.shields.io/badge/C%2B%2B-1F2937?style=flat-square&logo=cplusplus&logoColor=E5E7EB)
-![Java](https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=E5E7EB)
-![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=E5E7EB)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=E5E7EB)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
 
 ### Development
 
-![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=E5E7EB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=E5E7EB)
-![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=E5E7EB)
-![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=E5E7EB)
-![Linux](https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=E5E7EB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 
 <sub>Software Engineering · Backend Systems · Applied AI · Algorithms · Optimization · REST APIs</sub>
 
 </div>
+
+<img src="./assets/pulse-divider.svg" width="100%" alt="Animated signal divider" />
 
 ## Featured Work
 
@@ -127,7 +131,7 @@ A team-built 2D football game developed under a fixed competition deadline aroun
 
 <div align="center">
 
-<a href="https://github.com/shanto0202?tab=overview"><img width="68%" src="https://streak-stats.demolab.com?user=shanto0202&amp;hide_border=true&amp;background=0B0F17&amp;stroke=273548&amp;ring=5D8FB8&amp;fire=5D8FB8&amp;currStreakLabel=7CA6C2&amp;sideLabels=94A3B8&amp;currStreakNum=F1F5F9&amp;sideNums=CBD5E1&amp;dates=64748B" alt="Shanto's GitHub contribution activity" /></a>
+<a href="https://github.com/shanto0202?tab=overview"><img width="68%" src="https://streak-stats.demolab.com?user=shanto0202&amp;hide_border=true&amp;background=0B0F17&amp;stroke=273548&amp;ring=38BDF8&amp;fire=F59E0B&amp;currStreakLabel=2DD4BF&amp;sideLabels=94A3B8&amp;currStreakNum=F1F5F9&amp;sideNums=CBD5E1&amp;dates=64748B" alt="Shanto's GitHub contribution activity" /></a>
 
 <br />
 
@@ -151,8 +155,9 @@ I am open to conversations about software engineering, project ideas, competitio
 
 <br />
 
-<a href="https://www.linkedin.com/in/shahariar-rahman-shanto/"><img src="https://img.shields.io/badge/LinkedIn-Shahariar_Rahman_Shanto-1F2937?style=flat-square&amp;logo=linkedin&amp;logoColor=E5E7EB&amp;labelColor=111827" alt="Shahariar Rahman Shanto on LinkedIn" /></a>
-<a href="https://github.com/shanto0202"><img src="https://img.shields.io/badge/GitHub-shanto0202-1F2937?style=flat-square&amp;logo=github&amp;logoColor=E5E7EB&amp;labelColor=111827" alt="shanto0202 on GitHub" /></a>
+<a href="https://github.com/shanto0202"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/shahariar-rahman-shanto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/shanto0202/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&amp;logo=leetcode&amp;logoColor=111827" alt="LeetCode" /></a>
 
 <br /><br />
 
